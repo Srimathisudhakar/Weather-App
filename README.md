@@ -39,7 +39,7 @@ Simple-Weather-App-master/
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/<your-username>/Web-OctaNet-main.git
+   git clone https://github.com/Srimathisudhakar/Web-OctaNet-main.git
    cd Simple-Weather-App-master
 Open the project:
 Simply open index.html in your web browser.
@@ -55,4 +55,4 @@ Developed by OctaNet
 Feel free to fork, modify, and share!
 
 🪪 License
-This project is licensed under the MIT License.# Weather-App
+This project is licensed under the MIT License.
